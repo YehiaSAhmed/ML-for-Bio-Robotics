@@ -43,4 +43,5 @@ Note: **“*Syllabus*”** is taken from the introduction lecture of the course.
 Note: **Lectures** is the name of the lectures taught in the course.
 
 Under Supervision of Dr. Hisham Abouelseoud Elsayem
+
 Copyright © 2023, SBME 2024 - Faculty of Engineering - Cairo Uni.
