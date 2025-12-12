@@ -32,7 +32,7 @@ Lecture # | Lecture name | Notes |
 1 | Introduction |
 2 | Linear Regression |
 3 | K-Nearest Neighbors & Radius Neighbors Classifiers | *K-d tree also was included.*
-4 | Decision Trees (DT) |
+4 | Decision Trees (DT) | *Random Forest also was included*
 5 | Support Vector Machines |
 6 | Introduction to ANN, MLP, Learning, and Backpropagation |
 7 | OpenCV Package |
@@ -42,6 +42,6 @@ Note: **“*Syllabus*”** is taken from the introduction lecture of the course.
 
 Note: **Lectures** is the name of the lectures taught in the course.
 
-Under Supervision of Dr. Hisham Abouelseoud Elsayem
+Under the supervision of Dr. Hisham Abouelseoud Elsayem
 
 Copyright © 2023, SBME 2024 - Faculty of Engineering - Cairo Uni.
